@@ -1,2 +1,1 @@
-# JogoDaForca_Python
-Algoritmos em Python :) 
+Lógica de Programação e Algoritmos em Python :) 
